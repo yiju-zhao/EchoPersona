@@ -8,7 +8,6 @@ import openai
 from pathlib import Path
 from elevenlabs.client import ElevenLabs
 from elevenlabs import play
-elevenlabs_available = True
 
 
 from .utils import (
